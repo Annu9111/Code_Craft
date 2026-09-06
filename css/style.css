@@ -150,3 +150,7 @@ overflow: hidden;
     background:var(--bs-main-color) ;
     color: var(--bs-dark-color);
 }
+
+.carousel-inner .card p:hover{
+    color: var(--bs-dark-color);
+}
