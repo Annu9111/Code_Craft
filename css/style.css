@@ -114,3 +114,9 @@ button,a{
     color:var(--bs-main-color);
   
 }
+.card-box:hover{
+    box-shadow: rgba(149,157,165,0.2) 0 8px 24px ;
+}
+.more-info-section{
+    background-attachment: fixed;
+}
