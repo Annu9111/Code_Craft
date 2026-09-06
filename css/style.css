@@ -68,3 +68,29 @@ li{
 .text-light-grey{
     color:var(--bs-primary-color)
 }
+button,a{
+    font-size: 1.15rem !important;
+    letter-spacing: 0.03rem;
+    word-spacing: .1rem;
+}
+.custom-shape-divider-bottom-1788682233 {
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    width: 100%;
+    overflow: hidden;
+    line-height: 0;
+    transform: rotate(180deg);
+}
+
+.custom-shape-divider-bottom-1788682233 svg {
+    position: relative;
+    display: block;
+    width: calc(100% + 1.3px);
+    height: 157px;
+    transform: rotateY(180deg);
+}
+
+.custom-shape-divider-bottom-1788682233 .shape-fill {
+    fill: #FFFFFF;
+}
