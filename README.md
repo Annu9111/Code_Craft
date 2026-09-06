@@ -22,7 +22,7 @@ https://github.com/Annu9111/Code_Craft
 
 ### 💼 Services Section
 
-![CodeCraft Services](Screenshot/services.png)
+![CodeCraft Services](Screenshot/Services.png)
 
 ### 🚀 Digital Product Section
 
