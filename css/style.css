@@ -12,3 +12,42 @@
     --secondary-color: #29a9fd;
     --bs-supporting-color: #C850C0;
 }
+h1, h2, h3, h4, h5 {
+    font-family:Arial, Helvetica, sans-serif , sans-serif;
+    color: var(--bs-dark-color);
+}
+
+h1 {
+    font-size: 3.8rem;
+}
+
+h2 {
+    line-height: 3rem;
+    font-weight: 600;
+    font-size: 3.4rem;
+}
+a{
+    text-decoration: none;
+}
+li{
+    list-style: none;
+}
+.hero-video--section{
+    max-width: 100%;
+    height: auto;
+    width: 60rem;
+    border-radius: 2rem;
+    -webkit-border-radius: 2rem;
+    -moz-border-radius: 2rem;
+    -ms-border-radius: 2rem;
+    -o-border-radius: 2rem;
+}
+.hero-section .container{
+    display: grid;
+    place-content: center;
+    height: inherit;
+}
+.bg-main{
+    height: 80vh;
+    position:relative;
+}
