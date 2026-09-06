@@ -51,3 +51,20 @@ li{
     height: 80vh;
     position:relative;
 }
+.bg-color{
+    background-color: var(--bs-dark-primary);
+}
+/* .bg-theme{
+    background-color: var(--bs-supporting-color);
+    background-image: none !important;
+} */
+
+.nav-link{
+    color: var(--bs-main-color);
+}
+.nav-link:hover{
+    color: var(--secondary-color);
+}
+.text-light-grey{
+    color:var(--bs-primary-color)
+}
