@@ -154,3 +154,13 @@ overflow: hidden;
 .carousel-inner .card p:hover{
     color: var(--bs-dark-color);
 }
+
+.carousel-indicators{
+    bottom: -20%;
+}
+
+.carousel-indicators[data-bs-target]{
+    width: .7rem;
+    height: .7rem;
+    background-color: #1089ff;
+}
