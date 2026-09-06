@@ -18,19 +18,19 @@ https://github.com/Annu9111/Code_Craft
 
 ### 🏠 Home / Hero Section
 
-![CodeCraft Home](screenshots/Home.png)
+![CodeCraft Home](Screenshot/Home.png)
 
 ### 💼 Services Section
 
-![CodeCraft Services](screenshots/services.png)
+![CodeCraft Services](Screenshot/services.png)
 
 ### 🚀 Digital Product Section
 
-![CodeCraft Digital Product](screenshots/digital-product.png)
+![CodeCraft Digital Product](Screenshot/digital-product.png)
 
 ### 📊 Business Growth Section
 
-![CodeCraft Business](screenshots/business.png)
+![CodeCraft Business](Screenshot/business.png)
 
 
 ---
