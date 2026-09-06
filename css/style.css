@@ -127,10 +127,26 @@ background-attachment: fixed;
 padding: 6rem 0;
 overflow: hidden;
 }
-.business-section{
-    padding-top: 3rem;
-}
-
 .common-section{
     padding: 0 0 9rem 0;
+}
+.business-section{
+    padding-top: 4rem;
+}
+
+.carousel .card{
+    background-color: #262631;
+    color: var(--bs-main-color);
+    transition: all 0.3s linear;
+    -webkit-transition: all 0.3s linear;
+    -moz-transition: all 0.3s linear;
+    -ms-transition: all 0.3s linear;
+    -o-transition: all 0.3s linear;
+}
+.carousel-inner .card p{
+    color:var(--bs-main-color);
+}
+.carousel-inner .card:hover{
+    background:var(--bs-main-color) ;
+    color: var(--bs-dark-color);
 }
