@@ -127,3 +127,10 @@ background-attachment: fixed;
 padding: 6rem 0;
 overflow: hidden;
 }
+.business-section{
+    padding-top: 3rem;
+}
+
+.common-section{
+    padding: 0 0 9rem 0;
+}
